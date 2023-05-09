@@ -1,5 +1,5 @@
 module tb;
   initial begin
-    $display("I am sahil brother");
+    $display("Hi");
   end
 endmodule
